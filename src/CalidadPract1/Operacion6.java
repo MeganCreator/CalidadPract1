@@ -1,5 +1,5 @@
 package CalidadPract1;
 
-public class Operacion5 {
+public class Operacion6 {
 
 }
